@@ -1,1 +1,1 @@
-Terminal SQL : SELECT * FROM etudiants WHERE nom = 'Dupuis';
+SELECT * FROM etudiants WHERE nom = 'Dupuis';
